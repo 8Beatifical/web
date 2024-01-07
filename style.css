@@ -140,8 +140,3 @@ body{
     text-decoration: underline;
 }
 
-@media (max-width: 1000px) {
-    .nav li a{
-        font-size: 0.7rem;
-    }
-}
