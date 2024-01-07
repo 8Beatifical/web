@@ -119,7 +119,7 @@ body{
 .about{
     background-color: rgb(255, 255, 255);
     margin-top: 8px;
-    border-radius: 3px;
+    border-radius: 8px;
 }
 .about p{
     color: #233581;
