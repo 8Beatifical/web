@@ -14,6 +14,7 @@ body {
 
 body{
     background-image: url('item/BG.png');
+    background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
     background-position: 0px;
